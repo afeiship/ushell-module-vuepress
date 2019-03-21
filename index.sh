@@ -2,7 +2,7 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-alias vp-d='vuepress dev docs';
-alias vp-b='vuepress build docs';
+alias vpd='npm run docs:dev';
+alias vpb='npm run docs:build:';
 
 unset ROOT_PATH;
