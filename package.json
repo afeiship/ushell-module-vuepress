@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-vuepress",
+  "version": "1.0.0",
+  "description": "Ushell module for vuepress.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-vuepress.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-vuepress"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-vuepress/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-vuepress"
+}
